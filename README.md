@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Ahmad Awad, .NET & MEAN Stack Developer
+- 👋 Hi, I’m Ahmad Awad, .NET & Angular Developer
 - 👀 Interested in Technology, History, and Finance
 - 🌱 I’m currently an employee and freelancer  
 - 💞️ Looking to collaborate on new projects and develop myself
-- 📫 You can reach me by email: ahmad.awad.business@Gmail.com
+- 📫 You can reach me by website: https://www.bsite.net/AhmadAwad/
+- 
